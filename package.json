@@ -1,8 +1,8 @@
 {
   "name": "prefixed-range",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "create a prefixed range",
-  "main": "./src/index.js",
+  "main": "./dist/index.js",
   "files": [
     "dist",
     "README.md"
